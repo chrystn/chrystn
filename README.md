@@ -11,9 +11,9 @@
 <p>
   Hello 👋, I'm Chrystian! A passionate programming student from Brazil.
 
-  - 💬 Currently living in Diadema, São Paulo. I have experience with JavaScript, HTML5, CSS, TypeScript, React, and Node.js, as well as a ux/ui enthusiast i use Figma and some Adobe softwares.
+  - 💬 Currently living in Santo André, São Paulo. I have experience with JavaScript, HTML5, CSS, TypeScript, React, and Node.js, as well as a UX/UI enthusiast i use Figma and some Adobe softwares.
 
-  - ⚡ I enjoy reading, watching movies, and listening to music! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
+  - ⚡ I enjoy reading and listening to music! I believe that our personal interests contribute to a more refined perception of things and help with problem-solving.
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 <div align="center">
 <h3> Contact Me </h3>
-<a href="https://wa.me/5511969251607?text=Hi!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="https://wa.me/5511969251607?text=guthib!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:chrystiansousa90@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/chrystn" target=_blank><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
