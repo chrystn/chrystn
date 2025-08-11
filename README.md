@@ -39,12 +39,6 @@
 
 <br clear="both">
 
-<div align="center">
-
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chrystn&theme=transparent&card_width=900)](https://git.io/streak-stats)
-
-</div>
-
 <br clear="both">
 
 <div align="center" >
